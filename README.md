@@ -1,5 +1,22 @@
 # 💫 About Me:
-👋 Hi, I'm Amukelani Ndlovu<br>I'm a BSc Computer Science and Informatics graduate with a passion for building practical, user focused software solutions. I love turning ideas into reality through clean code, thoughtful design, and a problem solving mindset.<br><br>👨‍💻 What I Do<br>My interests span the full spectrum of software development from frontend interfaces to backend logic. I'm particularly drawn to:<br><br>🌐 Web Development<br>☁️ Cloud Computing<br>🤖 Machine Learning & Artificial Intelligence<br><br>🚀 Experience<br>I've applied my skills in both academic and real world settings:<br><br>Led a team to develop a film production management system<br>Currently working on live projects through my internship
+👋Hi, I'm Amukelani Ndlovu<br>
+I'm a BSc Computer Science and Informatics graduate with a passion for building practical, user-focused software solutions. I love turning ideas into reality through clean code, thoughtful design, and a problem-solving mindset.
+
+👨‍💻 What I Do<br>
+My interests span the full spectrum of software development, from frontend interfaces to backend logic, with a growing specialisation in AI integration and automation. I'm particularly drawn to:
+
+🌐 Web Development<br>
+🤖 AI Integration & Automation<br>
+⚖️ Legal Tech<br>
+☁️ Cloud Computing
+
+🚀 Experience<br>
+I've applied my skills in both academic and real-world settings:
+
+Software Engineering Intern at MB Attorneys, building full-stack, AI-driven tools under the firm's MB Tech digital transformation initiative
+Designed and built a local LLM-powered document automation pipeline (FastAPI, Ollama, ReportLab) that turns attorney dictation and client documents into structured PDFs
+Architected TenderAssist, a multi-tenant SaaS platform for automated tender monitoring, using LangGraph, Celery/Redis, and PostgreSQL
+Led a team to develop a film production management system
 
 
 ## 🌐 Socials:
