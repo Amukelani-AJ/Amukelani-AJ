@@ -13,7 +13,7 @@ My interests span the full spectrum of software development, from frontend inter
 🚀 Experience<br>
 I've applied my skills in both academic and real-world settings:
 
-Software Engineering Intern at MB Attorneys, building full-stack, AI-driven tools under the firm's MB Tech digital transformation initiative
+Software Engineering Intern at Motsoeneng Bill, building full-stack, AI-driven tools under the firm's MB Tech digital transformation initiative
 Designed and built a local LLM-powered document automation pipeline (FastAPI, Ollama, ReportLab) that turns attorney dictation and client documents into structured PDFs
 Architected TenderAssist, a multi-tenant SaaS platform for automated tender monitoring, using LangGraph, Celery/Redis, and PostgreSQL
 Led a team to develop a film production management system
